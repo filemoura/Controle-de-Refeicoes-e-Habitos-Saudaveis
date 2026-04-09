@@ -26,4 +26,4 @@ Pessoas em processo de reeducação alimentar e entusiastas de hábitos saudáve
 ##  Como Instalar e Rodar
 1. Clone o repositório:
    ```bash
-   git clone [LINK_DO_SEU_REPO]
+   git clone [https://github.com/filemoura/Controle-de-Refeicoes-e-Habitos-Saudaveis.git]
