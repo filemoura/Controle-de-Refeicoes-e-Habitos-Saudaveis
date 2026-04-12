@@ -23,7 +23,13 @@ Pessoas em processo de reeducação alimentar e entusiastas de hábitos saudáve
 - **Linting:** Maven Checkstyle Plugin
 - **CI:** GitHub Actions
 
-##  Como Instalar e Rodar
+##  Como Rodar
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/filemoura/Controle-de-Refeicoes-e-Habitos-Saudaveis.git]
+   [https://github.com/filemoura/Controle-de-Refeicoes-e-Habitos-Saudaveis.git]
+
+2. No terminal, digite:
+   ```bash
+   mvn clean compile exec:java -Dexec.mainClass="br.com.bootcamp.MainFrame"
+   
+3. Após o comando a janela da aplicação será aberta automaticamente.
