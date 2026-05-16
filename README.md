@@ -1,5 +1,11 @@
 # Deploy da aplicação
 
+Projeto publicado na Vercel para demonstração da entrega acadêmica.
+
+Aplicação desenvolvida em Java Desktop.
+* Observação:
+A aplicação foi desenvolvida em Java Desktop, portanto o deploy serve apenas para publicação do repositório e demonstração da integração contínua.
+
 https://controle-de-refeicoes-e-habitos-sau.vercel.app
 
 # NutriLog - Controle de Hábitos Saudáveis 
