@@ -1,3 +1,7 @@
+# Deploy da aplicação
+
+https://controle-de-refeicoes-e-habitos-sau.vercel.app
+
 # NutriLog - Controle de Hábitos Saudáveis 
 
 ##  Problema Real
